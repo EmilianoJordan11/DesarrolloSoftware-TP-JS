@@ -16,7 +16,7 @@ En este proyecto:
 
 ## ✅ Resolución
 
-Este repositorio contiene la **resolución completa** del TP3, mostrando la aplicación práctica de los conceptos de JavaScript en el siguiente enlace: 
+Este repositorio contiene la **resolución completa** del TP3, mostrando la aplicación práctica de los conceptos de JavaScript en el siguiente enlace: https://emilianojordan11.github.io/DesarrolloSoftware-TP-JS/
 
 ---
 
